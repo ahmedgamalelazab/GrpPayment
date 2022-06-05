@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\PaymentService\\PaymentService.csproj": {}
+    "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\GrpPayment\\PaymentService.csproj": {}
   },
   "projects": {
-    "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\PaymentService\\PaymentService.csproj": {
+    "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\GrpPayment\\PaymentService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\PaymentService\\PaymentService.csproj",
+        "projectUniqueName": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\GrpPayment\\PaymentService.csproj",
         "projectName": "PaymentService",
-        "projectPath": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\PaymentService\\PaymentService.csproj",
+        "projectPath": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\GrpPayment\\PaymentService.csproj",
         "packagesPath": "C:\\Users\\gemy\\.nuget\\packages\\",
-        "outputPath": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\PaymentService\\obj\\",
+        "outputPath": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\GrpPayment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
